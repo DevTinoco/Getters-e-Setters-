@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Leticia\Desktop\Dados bancarios\.metadata\.plugins\org.eclipse.jdt.core
-1523085395.index
-1865797976.index
-3564615765.index
