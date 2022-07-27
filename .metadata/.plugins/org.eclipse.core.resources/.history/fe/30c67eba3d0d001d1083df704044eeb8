@@ -1,0 +1,11 @@
+package entities;
+
+public class product {
+	
+	double accont;
+	String name;
+	double deposit;
+	
+	
+
+}
